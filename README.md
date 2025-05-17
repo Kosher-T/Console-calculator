@@ -1,4 +1,4 @@
-This is my first repo ever. I want this to be something I can be proud of later, but that's probably a foolish hope. There's no first of mine that I've been proud of later.
+This is my first repo ever. I want this to be something I can be proud of later, but that's probably a foolish hope. There's no first of mine that I've been proud of.
 
 Anyway, this is a console-based calculator project, one made in accordance with instructions from [Coddy](https://coddy.tech). It is quite simple to use.
 
